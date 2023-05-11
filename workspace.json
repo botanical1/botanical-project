@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "components": "libs/components",
+    "graphql-queries": "libs/graphql-queries",
+    "home": "apps/home",
+    "hooks": "libs/hooks",
+    "models": "libs/models",
+    "state": "libs/state",
+    "utilities": "libs/utilities"
+  }
+}
