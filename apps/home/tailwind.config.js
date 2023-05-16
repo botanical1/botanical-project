@@ -29,6 +29,7 @@ module.exports = {
         sans: ['sans-serif'],
         poppins: ['Poppins'],
         raleway: ['Raleway'],
+        arsenal: ['Arsenal'],
       },
       letterSpacing: {
         2: '2px',
